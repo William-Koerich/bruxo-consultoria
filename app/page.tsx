@@ -235,10 +235,10 @@ export default function Home() {
             <div className="mb-14 grid grid-cols-2 gap-6 sm:grid-cols-4">
               <div className="text-center">
                 <p className="font-display text-4xl text-gold">
-                  <Counter to={8} suffix="+" />
+                  <Counter to={100} suffix="+" />
                 </p>
                 <p className="mt-1 text-xs uppercase tracking-wide text-white/50">
-                  Transformações aqui do lado
+                  Transformações
                 </p>
               </div>
               <div className="text-center">
